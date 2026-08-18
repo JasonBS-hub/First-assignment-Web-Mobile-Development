@@ -1,0 +1,149 @@
+.text-center {
+  text-align: center;
+  
+}
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f6f9;
+  margin: 20px;
+  color: #333333;
+}
+
+.nav-links a {
+  color: #1b4965;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.nav-links a:hover {
+  text-decoration: underline;
+}
+
+section {
+  background-color: #ffffff;
+  padding: 15px 25px;
+  margin-bottom: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.08);
+}
+
+
+#about-me {
+  border-left: 8px solid #0077b6;
+  background-color: #eef8fc;
+}
+
+#about-me h2 {
+  color: #0077b6;
+}
+
+
+#education {
+  border-left: 8px solid #2a9d8f;
+  background-color: #f0faf8;
+}
+
+#education h2 {
+  color: #2a9d8f;
+}
+
+
+#skills {
+  border-left: 8px solid #f4a261;
+  background-color: #fdf6ec;
+}
+
+#skills h2 {
+  color: #e76f51;
+}
+
+
+#course-project {
+  border-left: 8px solid #7209b7;
+  background-color: #f9f2fc;
+}
+
+#course-project h2 {
+  color: #7209b7;
+}
+
+
+#contact {
+  border-left: 8px solid #e63946;
+  background-color: #fdf0f1;
+}
+
+#contact h2 {
+  color: #e63946;
+}
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f6f9;
+  margin: 20px;
+  color: #333333;
+}
+
+
+.nav-links a {
+  color: #1b4965;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.nav-links a:hover {
+  text-decoration: underline;
+}
+
+section {
+  background-color: #ffffff;
+  padding: 15px 25px;
+  margin-bottom: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.08);
+}
+
+#about-me {
+  border-left: 8px solid #0077b6;
+  background-color: #eef8fc;
+}
+
+#about-me h2 {
+  color: #0077b6;
+}
+
+#education {
+  border-left: 8px solid #2a9d8f;
+  background-color: #f0faf8;
+}
+
+#education h2 {
+  color: #2a9d8f;
+}
+
+#skills {
+  border-left: 8px solid #f4a261;
+  background-color: #fdf6ec;
+}
+
+#skills h2 {
+  color: #e76f51;
+}
+
+#course-project {
+  border-left: 8px solid #7209b7;
+  background-color: #f9f2fc;
+}
+
+#course-project h2 {
+  color: #7209b7;
+}
+
+#contact {
+  border-left: 8px solid #e63946;
+  background-color: #fdf0f1;
+}
+
+#contact h2 {
+  color: #8e1c25;
+}
+
